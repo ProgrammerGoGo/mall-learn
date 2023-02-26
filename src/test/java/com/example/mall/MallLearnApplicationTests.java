@@ -1,4 +1,4 @@
-package com.example.malllearn;
+package com.example.mall;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
